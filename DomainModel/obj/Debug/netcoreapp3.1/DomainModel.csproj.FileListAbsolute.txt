@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FinoProject\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\Users\user\source\repos\FinoProject\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\user\source\repos\FinoProject\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\user\source\repos\FinoProject\DomainModel\bin\Debug\netcoreapp3.1\Infrostructure.dll
+C:\Users\user\source\repos\FinoProject\DomainModel\bin\Debug\netcoreapp3.1\Infrostructure.pdb
+C:\Users\user\source\repos\FinoProject\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FinoProject\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinoProject\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\Users\user\source\repos\FinoProject\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinoProject\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CopyComplete
+C:\Users\user\source\repos\FinoProject\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\user\source\repos\FinoProject\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb

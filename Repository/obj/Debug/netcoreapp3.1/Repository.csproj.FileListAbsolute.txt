@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\FinoProject\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\user\source\repos\FinoProject\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\user\source\repos\FinoProject\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\user\source\repos\FinoProject\Repository\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\user\source\repos\FinoProject\Repository\bin\Debug\netcoreapp3.1\Infrostructure.dll
+C:\Users\user\source\repos\FinoProject\Repository\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\user\source\repos\FinoProject\Repository\bin\Debug\netcoreapp3.1\Infrostructure.pdb
+C:\Users\user\source\repos\FinoProject\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FinoProject\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinoProject\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\user\source\repos\FinoProject\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinoProject\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\user\source\repos\FinoProject\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\user\source\repos\FinoProject\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

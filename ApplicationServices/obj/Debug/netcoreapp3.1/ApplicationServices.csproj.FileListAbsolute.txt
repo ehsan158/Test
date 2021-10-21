@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\FinoProject\ApplicationServices\bin\Debug\netcoreapp3.1\ApplicationServices.deps.json
+C:\Users\user\source\repos\FinoProject\ApplicationServices\bin\Debug\netcoreapp3.1\ApplicationServices.dll
+C:\Users\user\source\repos\FinoProject\ApplicationServices\bin\Debug\netcoreapp3.1\ApplicationServices.pdb
+C:\Users\user\source\repos\FinoProject\ApplicationServices\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\user\source\repos\FinoProject\ApplicationServices\bin\Debug\netcoreapp3.1\Infrostructure.dll
+C:\Users\user\source\repos\FinoProject\ApplicationServices\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\user\source\repos\FinoProject\ApplicationServices\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\user\source\repos\FinoProject\ApplicationServices\bin\Debug\netcoreapp3.1\Infrostructure.pdb
+C:\Users\user\source\repos\FinoProject\ApplicationServices\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\user\source\repos\FinoProject\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FinoProject\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinoProject\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.AssemblyInfo.cs
+C:\Users\user\source\repos\FinoProject\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinoProject\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.csproj.CopyComplete
+C:\Users\user\source\repos\FinoProject\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.dll
+C:\Users\user\source\repos\FinoProject\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.pdb

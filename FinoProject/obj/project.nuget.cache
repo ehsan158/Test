@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3AdF3eGZSpcgsxRNy9IPQgll7EKzfdhXBIX+3kNJIujpBXv/MGc+Y/G5t1S/avzyuvog8s+ZRml+OoafaOoJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\FinoProject\\FinoProject\\FinoProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\FinoProject\Infrostructure\bin\Debug\netcoreapp3.1\Infrostructure.deps.json
+C:\Users\user\source\repos\FinoProject\Infrostructure\bin\Debug\netcoreapp3.1\Infrostructure.dll
+C:\Users\user\source\repos\FinoProject\Infrostructure\bin\Debug\netcoreapp3.1\Infrostructure.pdb
+C:\Users\user\source\repos\FinoProject\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinoProject\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.AssemblyInfo.cs
+C:\Users\user\source\repos\FinoProject\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinoProject\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.dll
+C:\Users\user\source\repos\FinoProject\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.pdb
+C:\Users\user\source\repos\FinoProject\Infrostructure\obj\Debug\netcoreapp3.1\Infrostructure.csprojAssemblyReference.cache
