@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MEMQpeHXNumhPtRpjBWq7FodSmfPXLBi/ow9i66L3VY/F8bxzwm5sGr7TVOtx4YBqa+5qrKWcnLoJkhlEm6WgQ==",
+  "dgSpecHash": "KATf1W4zXRlTFcQLXA7z4lq66vyG/BVpWP3CQ/cVfucbdgzQf0MHXc7OkcgExQLrEsvz0KWgf6i4QCC6peoO9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\FinoProject\\DomainModel\\DomainModel.csproj",
+  "projectFilePath": "C:\\Users\\user\\test\\DomainModel\\DomainModel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

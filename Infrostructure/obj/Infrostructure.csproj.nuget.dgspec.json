@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj": {}
+    "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj": {
+    "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj",
+        "projectUniqueName": "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj",
         "projectName": "Infrostructure",
-        "projectPath": "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj",
+        "projectPath": "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\obj\\",
+        "outputPath": "C:\\Users\\user\\test\\Infrostructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

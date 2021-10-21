@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l3AdF3eGZSpcgsxRNy9IPQgll7EKzfdhXBIX+3kNJIujpBXv/MGc+Y/G5t1S/avzyuvog8s+ZRml+OoafaOoJA==",
+  "dgSpecHash": "OQz3FbYc7jssBwVOKjPk83KRsRMZ409MWY+TZ3UScZkfZWnm02DayJnL/HJOiifQEwbCaIS2TheeGMVU+o7blA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\FinoProject\\FinoProject\\FinoProject.csproj",
+  "projectFilePath": "C:\\Users\\user\\test\\FinoProject\\FinoProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
   ],

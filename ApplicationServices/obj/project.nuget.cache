@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nRaKyNISep7tsPCEYB6DXQy4MCp/Ran09C6GFMhyMn3nWdIXfdUcKl3ykzipaXrA0DJ9NE9PYNl8hgVfZvEiPA==",
+  "dgSpecHash": "tq3j3OF8vQdq37/mnYs3jxQIKWAW3+wK9Z+nGzbiYqJsD9ukUCGMKGeBaDuNBjBchyQhl0vOaJhwX8eFQb/qFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\FinoProject\\ApplicationServices\\ApplicationServices.csproj",
+  "projectFilePath": "C:\\Users\\user\\test\\ApplicationServices\\ApplicationServices.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

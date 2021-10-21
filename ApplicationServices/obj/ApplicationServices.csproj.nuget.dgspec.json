@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\FinoProject\\ApplicationServices\\ApplicationServices.csproj": {}
+    "C:\\Users\\user\\test\\ApplicationServices\\ApplicationServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\FinoProject\\ApplicationServices\\ApplicationServices.csproj": {
+    "C:\\Users\\user\\test\\ApplicationServices\\ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\FinoProject\\ApplicationServices\\ApplicationServices.csproj",
+        "projectUniqueName": "C:\\Users\\user\\test\\ApplicationServices\\ApplicationServices.csproj",
         "projectName": "ApplicationServices",
-        "projectPath": "C:\\Users\\user\\source\\repos\\FinoProject\\ApplicationServices\\ApplicationServices.csproj",
+        "projectPath": "C:\\Users\\user\\test\\ApplicationServices\\ApplicationServices.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\FinoProject\\ApplicationServices\\obj\\",
+        "outputPath": "C:\\Users\\user\\test\\ApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\FinoProject\\DomainModel\\DomainModel.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\FinoProject\\DomainModel\\DomainModel.csproj"
+              "C:\\Users\\user\\test\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "C:\\Users\\user\\test\\DomainModel\\DomainModel.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj"
+              "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj": {
+                "projectPath": "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\FinoProject\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\FinoProject\\Repository\\Repository.csproj"
+              "C:\\Users\\user\\test\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\user\\test\\Repository\\Repository.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\FinoProject\\DomainModel\\DomainModel.csproj": {
+    "C:\\Users\\user\\test\\DomainModel\\DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\FinoProject\\DomainModel\\DomainModel.csproj",
+        "projectUniqueName": "C:\\Users\\user\\test\\DomainModel\\DomainModel.csproj",
         "projectName": "DomainModel",
-        "projectPath": "C:\\Users\\user\\source\\repos\\FinoProject\\DomainModel\\DomainModel.csproj",
+        "projectPath": "C:\\Users\\user\\test\\DomainModel\\DomainModel.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\FinoProject\\DomainModel\\obj\\",
+        "outputPath": "C:\\Users\\user\\test\\DomainModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj"
+              "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj": {
+                "projectPath": "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj"
               }
             }
           }
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj": {
+    "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj",
+        "projectUniqueName": "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj",
         "projectName": "Infrostructure",
-        "projectPath": "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj",
+        "projectPath": "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\obj\\",
+        "outputPath": "C:\\Users\\user\\test\\Infrostructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\FinoProject\\Repository\\Repository.csproj": {
+    "C:\\Users\\user\\test\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\FinoProject\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\user\\test\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\user\\source\\repos\\FinoProject\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\user\\test\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\FinoProject\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\user\\test\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,11 +204,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\FinoProject\\DomainModel\\DomainModel.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\FinoProject\\DomainModel\\DomainModel.csproj"
+              "C:\\Users\\user\\test\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "C:\\Users\\user\\test\\DomainModel\\DomainModel.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\FinoProject\\Infrostructure\\Infrostructure.csproj"
+              "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj": {
+                "projectPath": "C:\\Users\\user\\test\\Infrostructure\\Infrostructure.csproj"
               }
             }
           }
