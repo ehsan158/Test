@@ -28,7 +28,6 @@ namespace FinoProject.Controller
         #region View
         private LoginCammand GetUserDetail()
         {
-            Console.WriteLine("hello");
             Console.WriteLine("Enter Your UserName :");
             string userName = Console.ReadLine();
             Console.WriteLine("\nEnter Your Password :");
